@@ -1,0 +1,94 @@
+.sect_1
+{
+    background-color: grey;
+    padding-left: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 30px;
+    padding-bottom:40px;
+}
+
+#sec1
+{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.bottle
+{
+    border-radius: 15px;
+}
+
+
+
+
+#out1
+{
+    border-radius: 50px;
+}
+
+#out2
+{
+    border-radius: 50px;
+}
+
+.sect_2
+{
+    background-color: grey;
+    padding-left: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 30px;
+    padding-bottom:40px;
+}
+
+#sec2
+{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.shoes
+{
+    border-radius: 15px;
+}
+
+#out3
+{
+    border-radius: 50px;
+}
+
+#out4
+{
+    border-radius: 50px;
+}
+
+.sect_3
+{
+    background-color: grey;
+    padding-left: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 30px;
+    padding-bottom:40px;
+}
+
+#sec3
+{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.headphone
+{
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+}
+
+#out5
+{
+    border-radius: 50px;
+}
+
+#out6
+{
+    border-radius: 50px;
+}
